@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Pacenotes": {
+      "applicationId": "sXUKUT0I7HHsp5MOulg2CVjPViISa3cuxjXDZU17",
+      "masterKey": "XTgGemunvEIogVqVNxTbJcGtLMD3cp2Zq6PPnP4S"
+    },
+    "_default": {
+      "link": "Pacenotes"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pacenotes",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "async": "^0.9.0",
+    "darksky": "^0.1.2",
+    "google-distance": "^1.0.1"
+  }
+}
